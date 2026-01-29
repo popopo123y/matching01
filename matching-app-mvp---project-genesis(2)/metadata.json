@@ -1,8 +1,0 @@
-{
-  "name": "Matching App MVP - Project Genesis",
-  "description": "7日間のスプリントで構築する、Pairs同等の体験を提供する高品質マッチングアプリのMVP。検索、レコメンド、スワイプ、マッチング、チャット、管理機能を網羅。",
-  "requestFramePermissions": [
-    "camera",
-    "geolocation"
-  ]
-}
